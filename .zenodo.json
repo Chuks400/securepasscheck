@@ -1,0 +1,20 @@
+{
+  "title": "PassWatch — Password Strength Checker",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Chukwu, John Okike",
+      "affiliation": "Zhejiang University of Technology",
+      "orcid": "0009-0003-3268-6190"
+    }
+  ],
+  "description": "Educational Python password-strength analysis tool with command-line, Tkinter desktop and Flask web interfaces. Estimates password entropy and checks known breaches through the Have I Been Pwned range API. Intended for local learning and demonstration, not production credential handling.",
+  "keywords": [
+    "cybersecurity",
+    "password security",
+    "Python",
+    "Flask",
+    "security education"
+  ],
+  "license": "MIT"
+}
